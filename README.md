@@ -5,11 +5,11 @@
 
 - **单机版本：**
 
-  ![](https://github.com/liujiang157/BattleShip/tree/main/%E6%95%88%E6%9E%9C%E5%9B%BE/alone.gif)
+![](./pic/alone.gif)
 
 - **联机版本**  
  
-  ![](https://github.com/liujiang157/BattleShip/tree/main/%E6%95%88%E6%9E%9C%E5%9B%BE/connect.gif)
+![](./pic/connect.gif)
   
 ### 操作方法：
 
