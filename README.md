@@ -5,11 +5,11 @@
 
 - **单机版本：**
 
-![](./pic/alone.gif)
+![alone](alone.gif)
 
 - **联机版本**  
  
-![](./pic/connect.gif)
+![connect](connect.gif)
   
 ### 操作方法：
 
